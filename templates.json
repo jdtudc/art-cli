@@ -1,5 +1,11 @@
 [
   {
+    "name": "art-vue-pro",
+    "url": "https://github.com/artFE/art-templates.git",
+    "branch": "art-vue-pro",
+    "description": "Develop middle-back project using vue2.x and use art-vue as a component library."
+  },
+  {
     "name": "base_h5",
     "url": "https://github.com/artFE/art-templates.git",
     "branch": "base_h5",
