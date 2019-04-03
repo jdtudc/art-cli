@@ -1,3 +1,7 @@
+<div align=center>
+    <img width="172" title="ArtCli - A command line tool for quickly initializing projects." alt="ArtCli - A command line tool for quickly initializing projects." src="logo.png"/>
+</div>
+
 # art-cli
 
 A command line tool for quickly initializing projects.
