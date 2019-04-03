@@ -28,7 +28,7 @@ artcli
 
 ## Contribute
 
-[Contribute](https://github.com/artFE/art-cli/blob/master/CONTRIBUTE.md)
+You can add your template to `templates.json`
 
 ## Changelog
 
