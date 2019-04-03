@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "base_h5",
+    "url": "https://github.com/artFE/art-templates.git",
+    "branch": "base_h5",
+    "description": "Project template in MVC development mode for h5."
+  }
+]

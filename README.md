@@ -20,6 +20,8 @@ artcli
 
 [Templates](https://github.com/artFE/art-templates)
 
+`You can also use your own initialization template :)`
+
 ## Issues
 
 [Issues](https://github.com/artFE/art-cli/issues)
