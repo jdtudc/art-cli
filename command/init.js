@@ -9,7 +9,7 @@ const co = require('co')
 const prompt = require('co-prompt')
 const json = require('../templates')
 const chalk = require('chalk')
-const log = consol.log
+const log = console.log
 
 module.exports = () => {
 	co(function* () {
