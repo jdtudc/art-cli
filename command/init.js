@@ -3,13 +3,12 @@
  * @Date: 2019/4/2
  * @Mail: mcchen.club@gmail.com
  */
-const fs = require('fs')
 const exec = require('child_process').exec
 const co = require('co')
 const prompt = require('co-prompt')
 const json = require('../templates')
 const chalk = require('chalk')
-const log = consol.log
+const log = console.log
 
 module.exports = () => {
 	co(function* () {
